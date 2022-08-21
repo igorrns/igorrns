@@ -1,16 +1,14 @@
-### Hi there 👋
 
-<!--
-**igorrns/igorrns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 👋 Olá! Meu nome é Igor Rafael moro em São Paulo capital
+- 👨‍🎓 Atualmente cursando Densenvolvimento Full Stack pela universidade Estácio e fazendo 
+cursos paralelos pela escola de tecnologia Alura
+- 📃 Conhecimento em HTML/CSS, javascript, php, e python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 Meu Linkedin: https://www.linkedin.com/in/igor-rafael-45463022a/
+
+<div align="center">
+  <a href="https://github.com/igorrns">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=igorrns&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorrns&layout=compact&langs_count=7&theme=dracula"/>
+</div>
