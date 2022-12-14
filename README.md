@@ -1,8 +1,7 @@
 
 
 - 👋 Olá! Meu nome é Igor Rafael moro em São Paulo capital
-- 👨‍🎓 Atualmente cursando Densenvolvimento Full Stack pela universidade Estácio e fazendo 
-cursos paralelos pela escola de tecnologia Alura
+- 👨‍🎓 Atualmente cursando Densenvolvimento Full Stack pela universidade Estácio 
 - 📃 Conhecimento em HTML/CSS, javascript, php, e python
 
 - 📫 Meu Linkedin: https://www.linkedin.com/in/igor-rafael-45463022a/
